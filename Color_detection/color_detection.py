@@ -1,6 +1,5 @@
 import cv2 as c
 import numpy as np
-# 0 34 0 255 0 255
 def empty():
     pass
 image=c.imread('image/wolf.jpg')
